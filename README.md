@@ -1,7 +1,11 @@
 ## Project Description 
 There are two main features in the web application:
  1. Look up a summoner (player) username in the search box. The result will return the top five champions (with the champion's pictures). 
+ ![Recommendation](./resources/recommender.png)
+ 
  2. View Champion network of each position
+ 
+ ![Champion Map](./resources/champion_map.png)
 
 
 ## System Requirements
