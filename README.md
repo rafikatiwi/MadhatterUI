@@ -33,7 +33,7 @@ There are two main features in the web application:
 
 ## How to Use
 
-In the directory, run the app.py file 
+In the project directory, run the app.py file 
 
 ```
 python app.py
