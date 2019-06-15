@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-06-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="attribute" title="attribute" type="integer"></attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="Jayce">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="23.75"></viz:size>
+        <viz:position x="-409.04785" y="-72.31938"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="2" label="Vladimir">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="35.78125"></viz:size>
+        <viz:position x="-340.09262" y="203.28357"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="3" label="LeeSin">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7506.6523" y="-1379.5608"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="4" label="Renekton">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="18.28125"></viz:size>
+        <viz:position x="-367.4913" y="488.03323"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="5" label="Shaco">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7713.8716" y="-297.75034"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="6" label="Khazix">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3282.7676" y="6049.2095"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="7" label="Gragas">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-3138.9282" y="-6964.0073"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8" label="Ahri">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="-0.8157161" y="167.55072"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="9" label="Zyra">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="894.234" y="5.0105557"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="11" label="Ekko">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="4514.8193" y="-6254.3047"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12" label="Sivir">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="-117.116684" y="-320.08722"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="13" label="Lulu">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="28.125"></viz:size>
+        <viz:position x="776.1219" y="28.313782"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="14" label="Caitlyn">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="27.03125"></viz:size>
+        <viz:position x="-28.3394" y="-316.86105"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="15" label="Yasuo">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="35.78125"></viz:size>
+        <viz:position x="-230.60614" y="110.284454"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="16" label="Kennen">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1413.4026" y="-7249.9224"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="17" label="Lucian">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="30.3125"></viz:size>
+        <viz:position x="-72.59579" y="-229.84029"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="20" label="Ezreal">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-31.764069" y="-82.941185"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="21" label="Jhin">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="-171.27882" y="-384.55634"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="22" label="Xayah">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="52.312744" y="-297.35974"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="23" label="Vayne">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="34.6875"></viz:size>
+        <viz:position x="-176.82909" y="-170.52866"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="24" label="Kindred">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="6022.1206" y="6108.369"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="25" label="Leblanc">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3352.9663" y="-6658.2876"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="26" label="Irelia">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="29.21875"></viz:size>
+        <viz:position x="-362.8183" y="64.97082"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="27" label="Katarina">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="-237.55017" y="294.44614"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="28" label="Zed">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="32.5"></viz:size>
+        <viz:position x="-120.59029" y="196.85225"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="29" label="Lissandra">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="49.453945" y="104.77299"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="30" label="Pantheon">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="124.29359" y="725.4921"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="31" label="Orianna">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="58.410446" y="212.65471"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="33" label="Sylas">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="28.125"></viz:size>
+        <viz:position x="-456.37335" y="128.77461"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="34" label="Morgana">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="37.96875"></viz:size>
+        <viz:position x="635.9383" y="-19.116629"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="35" label="Fizz">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="-115.756165" y="376.38013"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="36" label="Hecarim">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="-446.59525" y="534.93317"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="38" label="Rammus">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5044.768" y="-5923.363"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="39" label="Karma">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="827.6361" y="-30.757982"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="41" label="Ryze">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="-492.34137" y="-58.126358"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="42" label="Ziggs">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4081.509" y="5275.179"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="43" label="Kaisa">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7304.702" y="1344.792"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="47" label="Riven">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="-310.36154" y="-13.249883"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="51" label="Poppy">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="6225.553" y="4261.7617"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="52" label="Kayle">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="-551.0991" y="227.36674"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="54" label="Diana">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7417.649" y="-2266.466"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="55" label="Ashe">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="-87.80006" y="-413.1777"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="57" label="Brand">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="646.9313" y="158.34836"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="60" label="Anivia">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="6590.1787" y="-3898.4595"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="65" label="Karthus">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-6466.4097" y="-4580.1973"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="66" label="Evelynn">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-3632.2446" y="6921.5845"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="70" label="Elise">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="18.28125"></viz:size>
+        <viz:position x="5969.179" y="6153.249"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="71" label="Fiora">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="-457.85516" y="261.41785"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="78" label="Trundle">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7346.3984" y="-1956.5479"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="79" label="Singed">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5871.5664" y="-3979.5332"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="80" label="Illaoi">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7076.0815" y="-3199.8784"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="82" label="Syndra">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-1484.8977" y="7549.9966"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="86" label="Lux">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="547.4003" y="73.0888"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="87" label="JarvanIV">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1044.9365" y="7033.2856"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="96" label="Kayn">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7551.132" y="1236.6144"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="97" label="Garen">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="18.28125"></viz:size>
+        <viz:position x="-85.103035" y="621.80896"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="100" label="Rengar">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5530.6836" y="-5481.264"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="101" label="Varus">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="21.5625"></viz:size>
+        <viz:position x="5.6728554" y="-403.15125"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="113" label="Jinx">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="23.75"></viz:size>
+        <viz:position x="-193.91219" y="-287.59607"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="116" label="Yorick">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="-2172.0034" y="6896.319"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="121" label="Urgot">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="-2178.2253" y="6950.9424"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="122" label="Akali">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="-451.4695" y="24.015108"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="123" label="Kassadin">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="-69.38897" y="296.1076"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="131" label="Pyke">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="21.5625"></viz:size>
+        <viz:position x="377.36786" y="-23.352327"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="132" label="Teemo">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="-34.111607" y="727.82654"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="138" label="Corki">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2342.2896" y="-6569.301"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="143" label="Neeko">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="-649.10406" y="170.96191"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="146" label="Blitzcrank">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="468.53714" y="-8.208995"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="149" label="Darius">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="-242.4515" y="468.17563"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="160" label="RekSai">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="5188.673" y="-5749.8755"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="161" label="Vi">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-578.0685" y="7866.5234"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="171" label="MasterYi">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4708.213" y="-6359.176"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="177" label="XinZhao">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2280.3396" y="-7134.103"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="179" label="Thresh">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="39.0625"></viz:size>
+        <viz:position x="399.5012" y="-128.1912"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="182" label="Cassiopeia">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-416.84882" y="7344.0493"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="183" label="Azir">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3958.7075" y="-6547.2197"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="185" label="Velkoz">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5908.4404" y="5054.6597"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="188" label="Swain">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="35"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="936.4891" y="7517.2876"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="189" label="Gnar">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5726.0654" y="-4535.958"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="190" label="Soraka">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="29.21875"></viz:size>
+        <viz:position x="756.58026" y="-79.41938"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="206" label="Nami">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="29.21875"></viz:size>
+        <viz:position x="799.2932" y="-169.24507"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="212" label="Nidalee">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="17.1875"></viz:size>
+        <viz:position x="5907.7246" y="6130.428"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="217" label="Camille">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="6095.213" y="-4362.608"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="218" label="Nocturne">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1901.6326" y="-7470.6313"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="219" label="Graves">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="18.28125"></viz:size>
+        <viz:position x="5956.4175" y="6081.6475"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="225" label="Ornn">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="40"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="479.5586" y="-7567.1406"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="232" label="Taric">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="41"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-830.3075" y="6636.7417"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="233" label="Leona">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="25.9375"></viz:size>
+        <viz:position x="666.0343" y="-141.43195"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="234" label="Nautilus">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="24.84375"></viz:size>
+        <viz:position x="682.4567" y="-243.11673"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="235" label="Braum">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="28.125"></viz:size>
+        <viz:position x="591.0255" y="-224.99725"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="237" label="Alistar">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="29.21875"></viz:size>
+        <viz:position x="563.25836" y="-127.07607"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="239" label="Viktor">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="18.28125"></viz:size>
+        <viz:position x="-322.96695" y="-106.1925"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="241" label="Malzahar">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4903.5435" y="6101.211"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="244" label="Sion">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="-2184.38" y="7007.5566"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="251" label="Xerath">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="358.09164" y="62.550137"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="270" label="Draven">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2392.7388" y="7308.9307"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="271" label="Kalista">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="23.842335" y="-216.97575"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="285" label="Sejuani">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="44"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4072.1555" y="6008.2363"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="290" label="Annie">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="45"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="135.72417" y="7840.227"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="303" label="TahmKench">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="46"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1636.7703" y="7515.999"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="315" label="Warwick">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="47"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-3632.6648" y="6406.239"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="317" label="Janna">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="23.75"></viz:size>
+        <viz:position x="864.63434" y="-97.28078"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="322" label="Jax">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="23.75"></viz:size>
+        <viz:position x="-339.6064" y="405.77405"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="325" label="Veigar">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="48"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4678.141" y="5607.6763"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="333" label="TwistedFate">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="49"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7465.025" y="1988.9336"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="339" label="Zilean">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="50"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="6623.151" y="3825.089"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="347" label="Aatrox">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="-552.1607" y="43.3217"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="395" label="Galio">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="21.5625"></viz:size>
+        <viz:position x="480.90598" y="-211.9238"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="403" label="Maokai">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="51"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-6736.8813" y="-3904.7183"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="416" label="Talon">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="-165.97026" y="327.61322"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="440" label="MonkeyKing">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="52"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-26.619066" y="6974.2646"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="491" label="Tristana">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="-246.41693" y="-354.7151"></viz:position>
+        <viz:color r="255" g="128" b="208"></viz:color>
+      </node>
+      <node id="510" label="Zoe">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="22.65625"></viz:size>
+        <viz:position x="-211.58556" y="8.100405"></viz:position>
+        <viz:color r="122" g="156" b="255"></viz:color>
+      </node>
+      <node id="576" label="MissFortune">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="53"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-4255.641" y="-6405.6445"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="587" label="Shen">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="54"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-3754.4343" y="-6701.784"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="590" label="Malphite">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="88.59755" y="609.9931"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="626" label="Fiddlesticks">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="16.09375"></viz:size>
+        <viz:position x="733.82434" y="145.41954"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="634" label="Udyr">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="55"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="5884.6206" y="-4936.3647"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="635" label="Olaf">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="56"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-5363.4224" y="5153.545"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="666" label="Zac">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="57"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="4435.7896" y="-5807.745"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="677" label="Tryndamere">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="58"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-6534.938" y="3889.416"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="681" label="Sona">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="943.943" y="-78.52228"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="704" label="Heimerdinger">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="59"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3627.162" y="6923.4766"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="735" label="Rumble">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="60"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2014.9957" y="6583.7207"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="746" label="Shyvana">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="61"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3154.6025" y="6649.874"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="750" label="Nasus">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="20.46875"></viz:size>
+        <viz:position x="-145.11803" y="661.079"></viz:position>
+        <viz:color r="0" g="199" b="115"></viz:color>
+      </node>
+      <node id="810" label="Rakan">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.375"></viz:size>
+        <viz:position x="523.94" y="-288.10876"></viz:position>
+        <viz:color r="195" g="255" b="158"></viz:color>
+      </node>
+      <node id="890" label="Twitch">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="62"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7329.5605" y="-2690.08"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="896" label="Bard">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="63"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="24.961473" y="-7348.052"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="915" label="DrMundo">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="64"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-2568.1167" y="-7086.804"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="917" label="Volibear">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="65"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="373.5784" y="7327.0337"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="938" label="Gangplank">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="66"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7658.7334" y="807.1718"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="970" label="Kled">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="67"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="3515.0847" y="-7244.917"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1013" label="Taliyah">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="68"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-2832.0283" y="7481.585"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1128" label="Mordekaiser">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="69"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7027.8" y="3225.8936"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1267" label="Chogath">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="70"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7659.6333" y="-630.1278"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1514" label="AurelionSol">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="71"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1212.8912" y="6531.398"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1739" label="Nunu">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="72"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2588.2908" y="6895.2744"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1887" label="Amumu">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="73"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="7273.66" y="2639.0469"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2362" label="Quinn">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="74"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-7869.0127" y="105.626236"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2371" label="Skarner">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="75"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="2877.3237" y="-7248.9106"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2688" label="Ivern">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="76"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-6515.0083" y="4452.513"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2853" label="KogMaw">
+        <attvalues>
+          <attvalue for="attribute" value="2"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="77"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="5549.2793" y="-5363.6724"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="538" source="20" target="17" weight="0.5048508154641266"></edge>
+      <edge id="539" source="20" target="23" weight="0.4743096759279201"></edge>
+      <edge id="540" source="17" target="23" weight="0.4330639436122912"></edge>
+      <edge id="541" source="14" target="20" weight="0.37818663271448216"></edge>
+      <edge id="542" source="15" target="28" weight="0.34455081216396805"></edge>
+      <edge id="543" source="20" target="12" weight="0.3383953662757859"></edge>
+      <edge id="544" source="146" target="179" weight="0.32068149160430826"></edge>
+      <edge id="545" source="237" target="179" weight="0.31411269232896205"></edge>
+      <edge id="546" source="17" target="12" weight="0.3113364860782404"></edge>
+      <edge id="547" source="14" target="23" weight="0.3042383031586998"></edge>
+      <edge id="548" source="14" target="17" weight="0.29881429310252844"></edge>
+      <edge id="549" source="206" target="190" weight="0.2931089353491584"></edge>
+      <edge id="550" source="34" target="179" weight="0.28200093090274503"></edge>
+      <edge id="551" source="13" target="206" weight="0.27786535515175576"></edge>
+      <edge id="552" source="131" target="179" weight="0.2680029141049353"></edge>
+      <edge id="553" source="237" target="235" weight="0.26527269335388015"></edge>
+      <edge id="554" source="26" target="15" weight="0.2605591555959896"></edge>
+      <edge id="555" source="14" target="12" weight="0.2507214901513356"></edge>
+      <edge id="556" source="34" target="190" weight="0.24166423291045191"></edge>
+      <edge id="557" source="34" target="206" weight="0.24102384527492718"></edge>
+      <edge id="558" source="13" target="190" weight="0.24032295095492018"></edge>
+      <edge id="559" source="12" target="23" weight="0.23938879143729302"></edge>
+      <edge id="560" source="20" target="113" weight="0.2378166527131152"></edge>
+      <edge id="561" source="20" target="179" weight="0.23411108352237436"></edge>
+      <edge id="562" source="14" target="113" weight="0.22463880569350098"></edge>
+      <edge id="563" source="235" target="179" weight="0.22452618214535125"></edge>
+      <edge id="564" source="317" target="190" weight="0.2235648666262638"></edge>
+      <edge id="565" source="237" target="34" weight="0.22276407673385212"></edge>
+      <edge id="566" source="55" target="20" weight="0.2224870888425488"></edge>
+      <edge id="567" source="237" target="146" weight="0.22164927925356437"></edge>
+      <edge id="568" source="113" target="23" weight="0.2204389615405182"></edge>
+      <edge id="569" source="237" target="233" weight="0.21680176469304918"></edge>
+      <edge id="570" source="317" target="206" weight="0.2166591261624694"></edge>
+      <edge id="571" source="23" target="15" weight="0.21456208844841979"></edge>
+      <edge id="572" source="55" target="14" weight="0.21417216644880824"></edge>
+      <edge id="573" source="122" target="26" weight="0.21250939486849169"></edge>
+      <edge id="574" source="20" target="21" weight="0.20946988710390566"></edge>
+      <edge id="575" source="47" target="15" weight="0.20806290670257221"></edge>
+      <edge id="576" source="233" target="34" weight="0.20649100080465438"></edge>
+      <edge id="577" source="20" target="15" weight="0.20621327600674688"></edge>
+      <edge id="578" source="86" target="34" weight="0.206085275324349"></edge>
+      <edge id="579" source="113" target="17" weight="0.2032378377942462"></edge>
+      <edge id="580" source="55" target="12" weight="0.20101155640997492"></edge>
+      <edge id="581" source="317" target="13" weight="0.19872071925400675"></edge>
+      <edge id="582" source="113" target="12" weight="0.19860833770051348"></edge>
+      <edge id="583" source="26" target="47" weight="0.19681496683312683"></edge>
+      <edge id="584" source="146" target="34" weight="0.19413869951736148"></edge>
+      <edge id="585" source="235" target="233" weight="0.19208001985421336"></edge>
+      <edge id="586" source="39" target="34" weight="0.1871535831841659"></edge>
+      <edge id="587" source="33" target="15" weight="0.1862181073858279"></edge>
+      <edge id="588" source="13" target="34" weight="0.1857876512491362"></edge>
+      <edge id="589" source="2" target="15" weight="0.18277508950222038"></edge>
+      <edge id="590" source="235" target="34" weight="0.18141009285039253"></edge>
+      <edge id="591" source="21" target="17" weight="0.1813340324458591"></edge>
+      <edge id="592" source="233" target="234" weight="0.17969229567497613"></edge>
+      <edge id="593" source="233" target="179" weight="0.1792903739911927"></edge>
+      <edge id="594" source="271" target="23" weight="0.17866134982953769"></edge>
+      <edge id="595" source="34" target="9" weight="0.17797200843082026"></edge>
+      <edge id="596" source="237" target="234" weight="0.17356873454218064"></edge>
+      <edge id="597" source="20" target="271" weight="0.1725802578383988"></edge>
+      <edge id="598" source="55" target="23" weight="0.172190186670088"></edge>
+      <edge id="599" source="55" target="17" weight="0.17056529595679865"></edge>
+      <edge id="600" source="146" target="233" weight="0.1703456875144645"></edge>
+      <edge id="601" source="34" target="234" weight="0.1691404921248611"></edge>
+      <edge id="602" source="14" target="21" weight="0.16888776545765904"></edge>
+      <edge id="603" source="122" target="15" weight="0.16685169055537047"></edge>
+      <edge id="604" source="26" target="33" weight="0.16484823631217022"></edge>
+      <edge id="605" source="146" target="131" weight="0.16416923889281088"></edge>
+      <edge id="606" source="416" target="28" weight="0.16402874911707224"></edge>
+      <edge id="607" source="20" target="2" weight="0.16353386448684476"></edge>
+      <edge id="608" source="317" target="34" weight="0.16328999311574494"></edge>
+      <edge id="609" source="233" target="190" weight="0.16325827811610755"></edge>
+      <edge id="610" source="149" target="15" weight="0.16224280041973116"></edge>
+      <edge id="611" source="234" target="179" weight="0.16027823223649146"></edge>
+      <edge id="612" source="271" target="17" weight="0.1591069489912409"></edge>
+      <edge id="613" source="17" target="15" weight="0.1555111385342544"></edge>
+      <edge id="614" source="47" target="23" weight="0.15500171752386066"></edge>
+      <edge id="615" source="20" target="33" weight="0.15453848501126605"></edge>
+      <edge id="616" source="206" target="9" weight="0.15452227070801053"></edge>
+      <edge id="617" source="26" target="2" weight="0.15426741950699488"></edge>
+      <edge id="618" source="237" target="131" weight="0.15265189230845344"></edge>
+      <edge id="619" source="681" target="190" weight="0.15254299044857972"></edge>
+      <edge id="620" source="233" target="206" weight="0.1522918067178166"></edge>
+      <edge id="621" source="20" target="491" weight="0.1515070721316094"></edge>
+      <edge id="622" source="395" target="34" weight="0.15053858078847213"></edge>
+      <edge id="623" source="123" target="28" weight="0.15001816181302402"></edge>
+      <edge id="624" source="21" target="23" weight="0.14950299226485847"></edge>
+      <edge id="625" source="20" target="34" weight="0.1492687757675808"></edge>
+      <edge id="626" source="235" target="190" weight="0.1489527078362809"></edge>
+      <edge id="627" source="26" target="28" weight="0.14858713348216857"></edge>
+      <edge id="628" source="55" target="101" weight="0.14836234799006856"></edge>
+      <edge id="629" source="395" target="179" weight="0.14795801948011691"></edge>
+      <edge id="630" source="146" target="86" weight="0.14795740110255018"></edge>
+      <edge id="631" source="20" target="26" weight="0.1473429220019558"></edge>
+      <edge id="632" source="179" target="23" weight="0.14700082412308754"></edge>
+      <edge id="633" source="20" target="101" weight="0.14688973607705352"></edge>
+      <edge id="634" source="122" target="33" weight="0.1462542721902107"></edge>
+      <edge id="635" source="1" target="2" weight="0.14556167475251797"></edge>
+      <edge id="636" source="26" target="23" weight="0.14471907998682365"></edge>
+      <edge id="637" source="70" target="212" weight="0.14467865197251578"></edge>
+      <edge id="638" source="149" target="4" weight="0.1442279506406116"></edge>
+      <edge id="639" source="17" target="22" weight="0.14382368870290463"></edge>
+      <edge id="640" source="149" target="97" weight="0.1436943787740955"></edge>
+      <edge id="641" source="47" target="28" weight="0.14357302393928886"></edge>
+      <edge id="642" source="750" target="132" weight="0.14225327303192992"></edge>
+      <edge id="643" source="190" target="179" weight="0.14219104235171032"></edge>
+      <edge id="644" source="17" target="179" weight="0.1421249837870031"></edge>
+      <edge id="645" source="26" target="510" weight="0.14056179636454852"></edge>
+      <edge id="646" source="810" target="179" weight="0.14017098956357302"></edge>
+      <edge id="647" source="14" target="491" weight="0.14006659991214537"></edge>
+      <edge id="648" source="29" target="31" weight="0.13939617184987838"></edge>
+      <edge id="649" source="20" target="28" weight="0.13938501245458146"></edge>
+      <edge id="650" source="52" target="33" weight="0.1392901104936796"></edge>
+      <edge id="651" source="121" target="116" weight="0.1392414007556354"></edge>
+      <edge id="652" source="237" target="395" weight="0.1389801267246351"></edge>
+      <edge id="653" source="317" target="681" weight="0.13871932889321298"></edge>
+      <edge id="654" source="235" target="234" weight="0.1387055174840221"></edge>
+      <edge id="655" source="55" target="113" weight="0.1386527185684111"></edge>
+      <edge id="656" source="86" target="190" weight="0.13841202422691945"></edge>
+      <edge id="657" source="34" target="131" weight="0.13835734021843288"></edge>
+      <edge id="658" source="123" target="31" weight="0.13831206441450386"></edge>
+      <edge id="659" source="33" target="2" weight="0.13820336979528136"></edge>
+      <edge id="660" source="20" target="22" weight="0.13721625654512296"></edge>
+      <edge id="661" source="39" target="206" weight="0.13468393395281647"></edge>
+      <edge id="662" source="39" target="190" weight="0.13465421997607718"></edge>
+      <edge id="663" source="190" target="9" weight="0.13429012358282305"></edge>
+      <edge id="664" source="123" target="2" weight="0.13345473841845756"></edge>
+      <edge id="665" source="491" target="23" weight="0.1333695856863844"></edge>
+      <edge id="666" source="86" target="179" weight="0.13316803538658376"></edge>
+      <edge id="667" source="20" target="510" weight="0.1331267291477573"></edge>
+      <edge id="668" source="149" target="322" weight="0.131390547887163"></edge>
+      <edge id="669" source="146" target="20" weight="0.13109110989951922"></edge>
+      <edge id="670" source="33" target="510" weight="0.13090386873905743"></edge>
+      <edge id="671" source="235" target="395" weight="0.130713170029612"></edge>
+      <edge id="672" source="237" target="190" weight="0.1304332400045716"></edge>
+      <edge id="673" source="20" target="47" weight="0.13022051372600213"></edge>
+      <edge id="674" source="20" target="131" weight="0.1298587663810559"></edge>
+      <edge id="675" source="35" target="28" weight="0.12980117659248125"></edge>
+      <edge id="676" source="20" target="86" weight="0.1297098158006193"></edge>
+      <edge id="677" source="17" target="101" weight="0.12969430938762505"></edge>
+      <edge id="678" source="235" target="810" weight="0.12949402952332104"></edge>
+      <edge id="679" source="8" target="29" weight="0.12792701944399099"></edge>
+      <edge id="680" source="33" target="28" weight="0.12778993858862592"></edge>
+      <edge id="681" source="41" target="2" weight="0.12765054161998265"></edge>
+      <edge id="682" source="39" target="13" weight="0.12751010378677968"></edge>
+      <edge id="683" source="86" target="206" weight="0.12749716258499044"></edge>
+      <edge id="684" source="23" target="28" weight="0.1272103924608964"></edge>
+      <edge id="685" source="206" target="179" weight="0.12707643166803054"></edge>
+      <edge id="686" source="57" target="34" weight="0.12702826712160217"></edge>
+      <edge id="687" source="206" target="681" weight="0.12698402132962086"></edge>
+      <edge id="688" source="97" target="750" weight="0.1267508683618826"></edge>
+      <edge id="689" source="17" target="491" weight="0.1259175417442939"></edge>
+      <edge id="690" source="322" target="4" weight="0.12529261437528233"></edge>
+      <edge id="691" source="26" target="1" weight="0.12522843357831692"></edge>
+      <edge id="692" source="8" target="31" weight="0.12489093292875239"></edge>
+      <edge id="693" source="626" target="34" weight="0.12471886158509235"></edge>
+      <edge id="694" source="20" target="1" weight="0.12457719913782067"></edge>
+      <edge id="695" source="146" target="234" weight="0.12429869016406812"></edge>
+      <edge id="696" source="322" target="2" weight="0.124256625870176"></edge>
+      <edge id="697" source="2" target="28" weight="0.12409007140076429"></edge>
+      <edge id="698" source="23" target="2" weight="0.12357739727318727"></edge>
+      <edge id="699" source="146" target="235" weight="0.12351207512385409"></edge>
+      <edge id="700" source="237" target="810" weight="0.12247584578994551"></edge>
+      <edge id="701" source="347" target="1" weight="0.12245455984923491"></edge>
+      <edge id="702" source="233" target="13" weight="0.12163195622564542"></edge>
+      <edge id="703" source="71" target="26" weight="0.12146305704236235"></edge>
+      <edge id="704" source="123" target="15" weight="0.12115274714673552"></edge>
+      <edge id="705" source="235" target="206" weight="0.1206490569905462"></edge>
+      <edge id="706" source="219" target="212" weight="0.12053744783637171"></edge>
+      <edge id="707" source="244" target="121" weight="0.12002207771494824"></edge>
+      <edge id="708" source="14" target="101" weight="0.12000052322675597"></edge>
+      <edge id="709" source="122" target="510" weight="0.11982510106724478"></edge>
+      <edge id="710" source="20" target="239" weight="0.11960547582588335"></edge>
+      <edge id="711" source="39" target="179" weight="0.11931367943892618"></edge>
+      <edge id="712" source="416" target="15" weight="0.1190773628976427"></edge>
+      <edge id="713" source="15" target="510" weight="0.11887729570152727"></edge>
+      <edge id="714" source="12" target="491" weight="0.11884372194622705"></edge>
+      <edge id="715" source="233" target="86" weight="0.11801954712566073"></edge>
+      <edge id="716" source="71" target="47" weight="0.11698998225086948"></edge>
+      <edge id="717" source="70" target="24" weight="0.11680693412089552"></edge>
+      <edge id="718" source="1" target="41" weight="0.11668469933793953"></edge>
+      <edge id="719" source="122" target="2" weight="0.11668254298979189"></edge>
+      <edge id="720" source="122" target="41" weight="0.11646380531267278"></edge>
+      <edge id="721" source="123" target="416" weight="0.11637720989422284"></edge>
+      <edge id="722" source="29" target="510" weight="0.11636391263318252"></edge>
+      <edge id="723" source="23" target="22" weight="0.11624244344147702"></edge>
+      <edge id="724" source="590" target="750" weight="0.116230077727414"></edge>
+      <edge id="725" source="55" target="491" weight="0.11593436771357946"></edge>
+      <edge id="726" source="8" target="28" weight="0.11557769918761485"></edge>
+      <edge id="727" source="1" target="47" weight="0.11555607460515657"></edge>
+      <edge id="728" source="347" target="26" weight="0.11551757216688555"></edge>
+      <edge id="729" source="14" target="179" weight="0.11508858403749153"></edge>
+      <edge id="730" source="347" target="15" weight="0.11481746599121953"></edge>
+      <edge id="731" source="20" target="29" weight="0.1147155934137896"></edge>
+      <edge id="732" source="13" target="179" weight="0.11462651846358807"></edge>
+      <edge id="733" source="8" target="20" weight="0.11423137705919473"></edge>
+      <edge id="734" source="36" target="322" weight="0.11401364127784405"></edge>
+      <edge id="735" source="395" target="29" weight="0.1138811056282274"></edge>
+      <edge id="736" source="179" target="251" weight="0.11370174681060324"></edge>
+      <edge id="737" source="237" target="13" weight="0.11352707144792924"></edge>
+      <edge id="738" source="12" target="22" weight="0.11305561006601986"></edge>
+      <edge id="739" source="20" target="41" weight="0.11276498084814676"></edge>
+      <edge id="740" source="590" target="30" weight="0.11258783793130726"></edge>
+      <edge id="741" source="34" target="810" weight="0.11232181031799271"></edge>
+      <edge id="742" source="71" target="2" weight="0.11227613299232798"></edge>
+      <edge id="743" source="179" target="15" weight="0.11210073882396106"></edge>
+      <edge id="744" source="347" target="33" weight="0.11163533656410746"></edge>
+      <edge id="745" source="347" target="122" weight="0.11117642739946751"></edge>
+      <edge id="746" source="149" target="750" weight="0.11115252020838202"></edge>
+      <edge id="747" source="29" target="2" weight="0.11022558552340925"></edge>
+      <edge id="748" source="21" target="12" weight="0.11015832317362417"></edge>
+      <edge id="749" source="27" target="15" weight="0.11013557087738718"></edge>
+      <edge id="750" source="237" target="317" weight="0.11009196605252106"></edge>
+      <edge id="751" source="237" target="206" weight="0.11004702153759904"></edge>
+      <edge id="752" source="12" target="101" weight="0.10978249611952468"></edge>
+      <edge id="753" source="21" target="113" weight="0.10955844691102573"></edge>
+      <edge id="754" source="47" target="2" weight="0.10953663347830311"></edge>
+      <edge id="755" source="395" target="234" weight="0.10947772107863585"></edge>
+      <edge id="756" source="322" target="750" weight="0.10915781660380514"></edge>
+      <edge id="757" source="219" target="24" weight="0.10894549659213645"></edge>
+      <edge id="758" source="146" target="590" weight="0.10885409231901937"></edge>
+      <edge id="759" source="26" target="41" weight="0.10871224580770215"></edge>
+      <edge id="760" source="70" target="219" weight="0.10869374974925557"></edge>
+      <edge id="761" source="1" target="15" weight="0.10868868953138278"></edge>
+      <edge id="762" source="590" target="132" weight="0.10868282738366133"></edge>
+      <edge id="763" source="13" target="9" weight="0.10866685847510942"></edge>
+      <edge id="764" source="13" target="86" weight="0.10862961402738489"></edge>
+      <edge id="765" source="122" target="20" weight="0.10857570638039035"></edge>
+      <edge id="766" source="149" target="2" weight="0.10841963995295233"></edge>
+      <edge id="767" source="239" target="2" weight="0.10818509151732875"></edge>
+      <edge id="768" source="34" target="251" weight="0.10801698755747761"></edge>
+      <edge id="769" source="122" target="47" weight="0.10789694406012151"></edge>
+      <edge id="770" source="122" target="28" weight="0.10782454205613545"></edge>
+      <edge id="771" source="20" target="31" weight="0.10781551679816685"></edge>
+      <edge id="772" source="123" target="29" weight="0.10775584864234689"></edge>
+      <edge id="773" source="20" target="251" weight="0.10734793949030619"></edge>
+      <edge id="774" source="57" target="86" weight="0.10731134823328227"></edge>
+      <edge id="775" source="143" target="33" weight="0.10698018577167856"></edge>
+      <edge id="776" source="235" target="131" weight="0.10684959392344565"></edge>
+      <edge id="777" source="149" target="28" weight="0.10674503767521218"></edge>
+      <edge id="778" source="71" target="322" weight="0.10632141637854411"></edge>
+      <edge id="779" source="35" target="123" weight="0.10621306400234615"></edge>
+      <edge id="780" source="206" target="234" weight="0.10609462568790613"></edge>
+      <edge id="781" source="55" target="22" weight="0.10601365334888106"></edge>
+      <edge id="782" source="4" target="2" weight="0.10586560000625278"></edge>
+      <edge id="783" source="33" target="23" weight="0.10561828102948942"></edge>
+      <edge id="784" source="20" target="322" weight="0.10558379003806231"></edge>
+      <edge id="785" source="35" target="15" weight="0.10551456654280061"></edge>
+      <edge id="786" source="1" target="239" weight="0.10500347621284627"></edge>
+      <edge id="787" source="17" target="2" weight="0.1048579759864621"></edge>
+      <edge id="788" source="317" target="179" weight="0.10485145391293631"></edge>
+      <edge id="789" source="97" target="590" weight="0.10473834618591732"></edge>
+      <edge id="790" source="14" target="271" weight="0.10418200522942887"></edge>
+      <edge id="791" source="235" target="13" weight="0.10409509574640655"></edge>
+      <edge id="792" source="34" target="681" weight="0.10400415560709568"></edge>
+      <edge id="793" source="317" target="9" weight="0.10367751335826589"></edge>
+      <edge id="794" source="55" target="21" weight="0.10362925463104888"></edge>
+      <edge id="795" source="28" target="510" weight="0.10314362644781283"></edge>
+      <edge id="796" source="47" target="33" weight="0.10302498947050713"></edge>
+      <edge id="797" source="101" target="23" weight="0.10276618730781314"></edge>
+      <edge id="798" source="13" target="681" weight="0.1026176410800511"></edge>
+      <edge id="799" source="179" target="28" weight="0.10242847727071996"></edge>
+      <edge id="800" source="234" target="190" weight="0.10221715651272854"></edge>
+      <edge id="801" source="322" target="15" weight="0.10220853157567067"></edge>
+      <edge id="802" source="86" target="251" weight="0.10217552876307498"></edge>
+      <edge id="803" source="52" target="2" weight="0.10212736066142321"></edge>
+      <edge id="804" source="35" target="416" weight="0.10097783366229746"></edge>
+      <edge id="805" source="113" target="491" weight="0.10091279617409021"></edge>
+      <edge id="806" source="27" target="28" weight="0.10060323649733649"></edge>
+    </edges>
+  </graph>
+</gexf>

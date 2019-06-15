@@ -1,0 +1,152 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script src="{{ url_for('static', filename='js/sigma.min.js')}}"></script>
+  <script src="{{ url_for('static', filename='js/sigma.parseGexf.js')}}"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+
+</head>
+<body>
+
+  <!-- header -->
+        <header class="navbar navbar-expand-lg navbar-light bg-light">
+            <!--<a class="navbar-brand" href="#">Madhatter Team</a>-->
+            <a class = "navbar-brand" href = "{{ url_for('index') }}"> MadHatter Team </a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('all_network') }}">All Champions Network</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('top_network') }}">Top Champions Network</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('jungle_network') }}">Jungle Champions Network</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('middle_network') }}">Middle Champions Network</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('bottom_network') }}">Bottom Champions Network</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('support_network') }}">Support Champions Network</a>
+                </li>
+             </ul>
+            </div>
+        </header>
+
+  <div class='container pt-3'><h1 class='text-center display-4'>Network for All Champions</h1></div>
+  <hr class="style1 pt-3">
+
+  <div class='container'>
+  <div class="sigma-parent" id="sigma-example-parent">
+    <div class="sigma-expand" id="sigma-example"></div>
+  </div>
+</div>
+	<script type="text/javascript">function init() {
+  // Instanciate sigma.js and customize rendering :
+  var sigInst = sigma.init(document.getElementById('sigma-example')).drawingProperties({
+    defaultLabelColor: '#fff',
+    defaultLabelSize: 14,
+    defaultLabelBGColor: '#fff',
+    defaultLabelHoverColor: '#000',
+    labelThreshold: 6,
+    defaultEdgeType: 'curve'
+  }).graphProperties({
+    minNodeSize: 1,
+    maxNodeSize: 10,
+    minEdgeSize: 1,
+    maxEdgeSize: 1
+  }).mouseProperties({
+    maxRatio: 32
+  });
+
+  // Parse a GEXF encoded file to fill the graph
+  // (requires "sigma.parseGexf.js" to be included)
+  sigInst.parseGexf('{{ url_for('static', filename='data/champions_all.gexf')}}');
+
+  //highlights the nodes that is hovered+ its edges
+  //
+  // Bind events :
+  var greyColor = '#666';
+  sigInst.bind('overnodes',function(event){
+    var nodes = event.content;
+    var neighbors = {};
+    sigInst.iterEdges(function(e){
+      if(nodes.indexOf(e.source)<0 && nodes.indexOf(e.target)<0){
+        if(!e.attr['grey']){
+          e.attr['true_color'] = e.color;
+          e.color = greyColor;
+          e.attr['grey'] = 1;
+        }
+      }else{
+        e.color = e.attr['grey'] ? e.attr['true_color'] : e.color;
+        e.attr['grey'] = 0;
+
+        neighbors[e.source] = 1;
+        neighbors[e.target] = 1;
+      }
+    }).iterNodes(function(n){
+      if(!neighbors[n.id]){
+        if(!n.attr['grey']){
+          n.attr['true_color'] = n.color;
+          n.color = greyColor;
+          n.attr['grey'] = 1;
+        }
+      }else{
+        n.color = n.attr['grey'] ? n.attr['true_color'] : n.color;
+        n.attr['grey'] = 0;
+      }
+    }).draw(2,2,2);
+  }).bind('outnodes',function(){
+    sigInst.iterEdges(function(e){
+      e.color = e.attr['grey'] ? e.attr['true_color'] : e.color;
+      e.attr['grey'] = 0;
+    }).iterNodes(function(n){
+      n.color = n.attr['grey'] ? n.attr['true_color'] : n.color;
+      n.attr['grey'] = 0;
+    }).draw(2,2,2);
+  });
+  
+  
+  // Draw the graph :
+  sigInst.draw();
+}
+
+if (document.addEventListener) {
+  document.addEventListener("DOMContentLoaded", init, false);
+} else {
+  window.onload = init;
+}
+</script>
+
+<style type="text/css">
+  /* sigma.js context : */
+  .sigma-parent {
+    position: relative;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background: #999a9b;
+    height: 500px;
+  }
+  .sigma-expand {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  .buttons-container{
+    padding-bottom: 8px;
+    padding-top: 12px;
+  }
+</style>
+
+        
+		
+<?php include("../php/statcounter.php"); ?>		
+</body>
+</html>
